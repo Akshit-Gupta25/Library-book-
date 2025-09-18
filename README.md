@@ -98,18 +98,6 @@ Here is a text-based ER diagram for the database schema:
 
 -----
 
-### Deployed Application
-
-[Link to your deployed application]
-
------
-
-### Demo Video
-
-[Link to your 3-5 minute demo video]
-
------
-
 ### Sample Seed Data
 
 To quickly test the application, you can add some sample data to your database. Here are a few examples you can use:
