@@ -1,0 +1,4 @@
+[build]
+base = "bookish-forge-main"
+publish = "bookish-forge-main/dist"
+command = "npm run build"
